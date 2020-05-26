@@ -1,0 +1,13 @@
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.exe
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.deps.json
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.json
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.dev.json
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfo.cs
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Users\Luiz Fernando\Documents\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.genruntimeconfig.cache
